@@ -1,4 +1,4 @@
-const {updateUser,deleteUser,getSingleUser,getAllUser,getSingleUserbyUsername,getSingleUserbyEmail} = require("../chooseApp/controllers/user.js")
+const {updateUser,deleteUser,getSingleUser,getAllUser,getSingleUserbyUsername,getSingleUserbyEmail} = require("../controllers/user.js")
 
 
 const express = require("express")
